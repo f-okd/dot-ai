@@ -1,5 +1,7 @@
 # Language and anti-slop rules
 
+Slop-resistant communication preferences, adapted from [poteto's unslop skill](https://github.com/cursor/plugins/blob/main/pstack/skills/unslop/SKILL.md).
+
 Rules for all communication and written content.
 
 ## 1. Content and attributions

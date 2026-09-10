@@ -1,10 +1,6 @@
 # dot-ai
 
-Model-agnostic AI pairing configuration for @f-okd.
-
-## Purpose
-
-The AI functions as a code reviewer, technical mentor, and learning partner. The human writes all code. The AI reviews, questions, analyzes trade-offs, and audits code quality.
+my personal configuration for working with ai
 
 ## Structure
 
